@@ -12,8 +12,7 @@ menu:
 
 # favicon & logo
 favicon: /img/favicon.ico
-logo: /img/logo.png 
-title: Welcome
+logo: /img/logo.png
 
 # background_image
 # mask_alpha: 0 ~ 1
