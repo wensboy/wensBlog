@@ -9,7 +9,7 @@ description: 'wensboy personal blog website.'
 keywords:
 author: wensboy
 language: en | zh-CN | zh-TW
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

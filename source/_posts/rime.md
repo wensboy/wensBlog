@@ -1,7 +1,7 @@
 ---
 title: Rime配置默认中文简体
 date: 2025-03-22 10:02:28
-cover: /img/rime/2.png
+cover: /img/rime/cover.png
 categories: linux
 tags:
     - tool

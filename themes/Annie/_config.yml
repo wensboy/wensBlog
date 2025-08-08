@@ -34,6 +34,9 @@ motto:
 	enable: true
 	source: local
 
+timejs:
+    enable: true
+
     
 #########################################################################################################
 # 002-PROLOADER
@@ -47,11 +50,12 @@ preloader:
 # 003-INDEX
 #########################################################################################################
 # index-style: pure | cart
-index_style: cart
+index_style: pure
 
 # index_cart_cover
 #cover: /img/cart_cover.jpg
 lazy_image: /img/lazy.gif
+
 
 #########################################################################################################
 # 004-POST
@@ -59,8 +63,8 @@ lazy_image: /img/lazy.gif
 # post_relate
 relate:
     enable: true
-    posts_limit: 10
-    posts_excerpt: 120
+    posts_limit: 6
+    posts_excerpt: 80
 
 # post_comment
 comment:
@@ -131,13 +135,13 @@ mathjax:
   
 # post_code
 # highlight_theme: normal | night | night blue | night bright | night eighties
-highlight_theme: night bright
+highlight_theme: night
 code_copy:
     enable: true
 
 # post_excerpt for index page
-excerpt_cart: 64
-excerpt_pure: 256  
+excerpt_cart: 80
+excerpt_pure: 120
 excerpt_link: true
 
 # post_share
@@ -167,7 +171,7 @@ socialShare:
 # Check the icon in the page of Icomoon
 social:
 	github:
-        url: http://github.com/
+        url: https://github.com/wendisx
         icon: <span class="icon-github"></span>
 	twitter:
         url: http://twitter.com
